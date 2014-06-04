@@ -1,10 +1,10 @@
 {
-    "name": "class-extend",
+    "name": "extend.class",
     "description": "implementation of John Resig's Simple JavaScript inheritance.",
     "version": "0.0.1",
     "repository": {
         "type": "git",
-        "url": "git://github.com/bighostkim/class.extend.git"
+        "url": "git://github.com/xbenjii/class-extend.git"
     },
     "main": "lib/class",
     "directories": {
@@ -18,5 +18,5 @@
     "author": {
         "name": "Benjamin Fortune"
     },
-    "license": "MIT",
+    "license": "MIT"
 }
